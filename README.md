@@ -53,7 +53,7 @@ Para mais informações:
 * Python (Back-end)
 * Flask (Back-end)
 * SQLite (Banco de Dados)
-* Github (Documentação e Versonamento)
+* Github (Documentação e Versionamento)
 * Figma (Prototipagem)
 
 #### Contribuições Pessoais
@@ -75,7 +75,7 @@ Minha abordagem, combinada com minhas habilidades técnicas e de liderança, for
 * JavaScript - Competência em manipular o DOM e desenvolver lógica de programação, enriquecendo a interatividade e funcionalidade das aplicações web, e também utilizando frameworks como jQuery para simplificar o desenvolvimento. (Tenho autonomia)
 * Python - Habilidade em desenvolver lógica de programação de maneira independente, utilizando Python como linguagem principal e também frameworks como Flask para desenvolvimento web. (Tenho autonomia)
 * SQL - Capacidade de realizar operações CRUD de forma autônoma em bancos de dados SQLite, garantindo a eficiência e integridade na manipulação de dados. (Tenho autonomia)
-Scrum Master - Experiência em liderar equipes e coordenar atividades de acordo com metodologias ágeis, garantindo o cumprimento de prazos e a qualidade do trabalho. (Tenho autonomia)
+* Scrum Master - Experiência em liderar equipes e coordenar atividades de acordo com metodologias ágeis, garantindo o cumprimento de prazos e a qualidade do trabalho. (Tenho autonomia)
 * Gráficos de Burndown - Capacidade de criar e interpretar gráficos de burndown, fornecendo insights valiosos sobre o progresso do projeto ao longo do tempo e auxiliando na tomada de decisões estratégicas. (Tenho autonomia)
 
 #### Soft Skills
@@ -114,8 +114,8 @@ Para mais informações:
 * Java (Back-end e Front-end com JavaFX)
 * MySQL (Banco de Dados)
 * Figma (Prototipagem)
-* Git (Versonamento)
-* Github (Documentação e Versonamento)
+* Git (Versionamento)
+* Github (Documentação e Versionamento)
 * Scene Builder (Front-end)
 
 #### Contribuições Pessoais
@@ -155,8 +155,8 @@ Para mais informações:
 * React (Front-end)
 * NodeJS (Back-end)
 * Postgres (Banco de Dados)
-* Git (Versonamento)
-* Github (Documentação e Versonamento)
+* Git (Versionamento)
+* Github (Documentação e Versionamento)
 * Figma (Prototipagem)
 
 #### Contribuições Pessoais
@@ -208,9 +208,9 @@ Para mais informações:
 #### Tecnologias Utilizadas
 * React (Front-end)
 * NodeJS (Back-end)
-* Git (Versonamento)
+* Git (Versionamento)
 * Figma (Prototipagem)
-* Github (Documentação e Versonamento)
+* Github (Documentação e Versionamento)
 * SQLite (Banco de Dados)
 
 #### Contribuições Pessoais
