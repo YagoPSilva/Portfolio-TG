@@ -70,13 +70,13 @@ Adicionalmente, desempenhei um papel-chave na geração de gráficos de burndown
 Minha abordagem, combinada com minhas habilidades técnicas e de liderança, foram fundamentais para o sucesso deste projeto. Estou extremamente orgulhoso de ter contribuído de maneira significativa tanto para o desenvolvimento técnico quanto para a gestão eficaz da equipe.
 
 #### Hard Skills
-* HTML5 - Capacidade de criar estruturas semânticas em páginas web, proporcionando uma organização clara e eficiente do conteúdo.
-* CSS3 - Habilidade para estilizar páginas web de forma autônoma, garantindo uma apresentação visual atrativa e coerente com os padrões modernos de design, utilizando frameworks como Bootstrap para agilizar o desenvolvimento.
-* JavaScript - Competência em manipular o DOM e desenvolver lógica de programação, enriquecendo a interatividade e funcionalidade das aplicações web, e também utilizando frameworks como jQuery para simplificar o desenvolvimento.
-* Python - Habilidade em desenvolver lógica de programação de maneira independente, utilizando Python como linguagem principal e também frameworks como Flask para desenvolvimento web.
-* SQL - Capacidade de realizar operações CRUD de forma autônoma em bancos de dados SQLite, garantindo a eficiência e integridade na manipulação de dados.
-Scrum Master - Experiência em liderar equipes e coordenar atividades de acordo com metodologias ágeis, garantindo o cumprimento de prazos e a qualidade do trabalho.
-* Gráficos de Burndown - Capacidade de criar e interpretar gráficos de burndown, fornecendo insights valiosos sobre o progresso do projeto ao longo do tempo e auxiliando na tomada de decisões estratégicas.
+* HTML5 - Capacidade de criar estruturas semânticas em páginas web, proporcionando uma organização clara e eficiente do conteúdo. (Tenho autonomia)
+* CSS3 - Habilidade para estilizar páginas web de forma autônoma, garantindo uma apresentação visual atrativa e coerente com os padrões modernos de design, utilizando frameworks como Bootstrap para agilizar o desenvolvimento. (Tenho autonomia)
+* JavaScript - Competência em manipular o DOM e desenvolver lógica de programação, enriquecendo a interatividade e funcionalidade das aplicações web, e também utilizando frameworks como jQuery para simplificar o desenvolvimento. (Tenho autonomia)
+* Python - Habilidade em desenvolver lógica de programação de maneira independente, utilizando Python como linguagem principal e também frameworks como Flask para desenvolvimento web. (Tenho autonomia)
+* SQL - Capacidade de realizar operações CRUD de forma autônoma em bancos de dados SQLite, garantindo a eficiência e integridade na manipulação de dados. (Tenho autonomia)
+Scrum Master - Experiência em liderar equipes e coordenar atividades de acordo com metodologias ágeis, garantindo o cumprimento de prazos e a qualidade do trabalho. (Tenho autonomia)
+* Gráficos de Burndown - Capacidade de criar e interpretar gráficos de burndown, fornecendo insights valiosos sobre o progresso do projeto ao longo do tempo e auxiliando na tomada de decisões estratégicas. (Tenho autonomia)
 
 #### Soft Skills
 * Colaboração - Demonstrei habilidades de colaboração ao trabalhar em equipe, compartilhando conhecimento, ajudando colegas com dificuldades e contribuindo para um ambiente de trabalho positivo e produtivo.
@@ -126,11 +126,11 @@ Além disso, fui responsável pela implementação da lógica de recuperação d
 Outra contribuição significativa foi a criação da interface gráfica do sistema utilizando JavaFX, com o apoio do Scene Builder. Esta etapa envolveu a concepção e implementação de telas intuitivas e visualmente atraentes, garantindo uma experiência de usuário agradável e eficiente. Além disso, trabalhei na implementação das funcionalidades de login como administrador, garantindo que apenas usuários autorizados tivessem acesso privilegiado ao sistema, e desenvolvi interfaces adicionais para as operações específicas de administrador, garantindo uma usabilidade fluida e consistente em todo o sistema.
 
 #### Hard Skills
-* SQL - Habilidade em criar scripts SQL para configuração de bancos de dados e modelagem de dados, assegurando uma estrutura sólida e eficiente para armazenamento de informações financeiras.
-* Protocolo SMTP e Java Mail - Competência em utilizar protocolos de comunicação e pacotes específicos como Java Mail para implementar a funcionalidade de recuperação de e-mail, garantindo a segurança e confiabilidade no envio de tokens de recuperação de senha.
-* JavaFX e Scene Builder - Capacidade de desenvolver interfaces gráficas utilizando JavaFX e Scene Builder, proporcionando uma experiência de usuário intuitiva e atraente, e facilitando a interação com o sistema.
-* Administração de Privilégios de Usuário - Habilidade em implementar funcionalidades de login como administrador e definir privilégios de usuário, assegurando que apenas usuários autorizados tenham acesso privilegiado ao sistema.
-* Desenvolvimento Independente - Competência em trabalhar de forma autônoma na implementação de funcionalidades específicas do projeto, demonstrando capacidade de resolver problemas e alcançar objetivos sem supervisão direta.
+* SQL - Habilidade em criar scripts SQL para configuração de bancos de dados e modelagem de dados, assegurando uma estrutura sólida e eficiente para armazenamento de informações financeiras. (Tenho autonomia)
+* Protocolo SMTP e Java Mail - Competência em utilizar protocolos de comunicação e pacotes específicos como Java Mail para implementar a funcionalidade de recuperação de e-mail, garantindo a segurança e confiabilidade no envio de tokens de recuperação de senha. (Tenho autonomia)
+* JavaFX e Scene Builder - Capacidade de desenvolver interfaces gráficas utilizando JavaFX e Scene Builder, proporcionando uma experiência de usuário intuitiva e atraente, e facilitando a interação com o sistema. (Tenho autonomia parcial)
+* Administração de Privilégios de Usuário - Habilidade em implementar funcionalidades de login como administrador e definir privilégios de usuário, assegurando que apenas usuários autorizados tenham acesso privilegiado ao sistema. (Tenho autonomia)
+* Desenvolvimento Independente - Competência em trabalhar de forma autônoma na implementação de funcionalidades específicas do projeto, demonstrando capacidade de resolver problemas e alcançar objetivos sem supervisão direta. (Tenho autonomia)
 
 #### Soft Skills
 * Comunicação Efetiva - Demonstrei habilidade em comunicar de forma clara e eficiente os requisitos do banco de dados aos membros da equipe, garantindo uma compreensão mútua e uma implementação precisa da estrutura de dados necessária para o projeto.
@@ -171,14 +171,14 @@ Trabalhei na implementação do sistema de recuperação de senhas por e-mail, c
 Por fim, contribuí para a criação de uma página de not found personalizada, incluindo o design, para melhorar a experiência do usuário em situações de erro. Esta etapa foi importante para garantir uma experiência consistente e agradável para os usuários, mesmo em casos de páginas não encontradas.
 
 #### Hard Skills
-* React - Competência em desenvolver interfaces de usuário dinâmicas e responsivas utilizando o framework React, garantindo uma experiência de usuário fluída e interativa.
-* Node.js - Habilidade em desenvolver o backend da aplicação utilizando Node.js, permitindo a construção de servidores web eficientes e escaláveis.
-* Encriptação de Senhas com Bcrypt - Capacidade de implementar segurança de dados eficaz, protegendo as senhas dos usuários por meio da encriptação utilizando a biblioteca Bcrypt.
-* Integração de Serviços de E-mail - Competência em integrar serviços de e-mail à aplicação, possibilitando o envio de e-mails automatizados para recuperação de senhas e outras funcionalidades.
-* Verificação de Navegação na Aplicação - Habilidade em garantir uma navegação suave e intuitiva na aplicação, assegurando redirecionamentos eficientes entre as diferentes páginas.
-* Criação de Interfaces Gráficas com Design - Capacidade de criar interfaces gráficas visualmente atrativas e funcionais, contribuindo para uma experiência de usuário agradável e eficiente.
-* Desenvolvimento de Requisições HTTP com Fetch - Competência em realizar requisições HTTP utilizando o método Fetch do React, permitindo a comunicação entre o frontend e o backend de forma eficiente e assíncrona.
-* Manipulação de Dados em Bancos de Dados Relacionais - Habilidade em realizar operações CRUD (Create, Read, Update, Delete) em bancos de dados relacionais, garantindo a eficiência na manipulação de dados da aplicação.
+* React - Competência em desenvolver interfaces de usuário dinâmicas e responsivas utilizando o framework React, garantindo uma experiência de usuário fluída e interativa. (Tenho autonomia)
+* Node.js - Habilidade em desenvolver o backend da aplicação utilizando Node.js, permitindo a construção de servidores web eficientes e escaláveis. (Tenho autonomia)
+* Encriptação de Senhas com Bcrypt - Capacidade de implementar segurança de dados eficaz, protegendo as senhas dos usuários por meio da encriptação utilizando a biblioteca Bcrypt. (Tenho autonomia)
+* Integração de Serviços de E-mail - Competência em integrar serviços de e-mail à aplicação, possibilitando o envio de e-mails automatizados para recuperação de senhas e outras funcionalidades. (Tenho autonomia)
+* Verificação de Navegação na Aplicação - Habilidade em garantir uma navegação suave e intuitiva na aplicação, assegurando redirecionamentos eficientes entre as diferentes páginas. (Tenho autonomia)
+* Criação de Interfaces Gráficas com Design - Capacidade de criar interfaces gráficas visualmente atrativas e funcionais, contribuindo para uma experiência de usuário agradável e eficiente. (Tenho autonomia)
+* Desenvolvimento de Requisições HTTP com Fetch - Competência em realizar requisições HTTP utilizando o método Fetch do React, permitindo a comunicação entre o frontend e o backend de forma eficiente e assíncrona. (Tenho autonomia)
+* Manipulação de Dados em Bancos de Dados Relacionais - Habilidade em realizar operações CRUD (Create, Read, Update, Delete) em bancos de dados relacionais, garantindo a eficiência na manipulação de dados da aplicação. (Tenho autonomia)
 
 #### Soft Skills
 * Comunicação Efetiva - Capacidade de comunicar de forma clara e eficiente com os membros da equipe e stakeholders, explicando detalhadamente a implementação da página de login e dos componentes reutilizáveis com React, garantindo uma compreensão mútua e alinhada dos requisitos e funcionalidades.
@@ -221,11 +221,11 @@ Além disso, concentrei meus esforços na funcionalidade principal do sistema, q
 Um aspecto adicional do meu trabalho foi a implementação de um serviço para permitir que os usuários atualizassem a quantidade de óleo disponível para transações. Este serviço foi projetado para ser simples e intuitivo, oferecendo aos usuários uma maneira fácil de manter seus estoques atualizados e prontos para transações futuras.
 
 #### Hard Skills
-* React - Competência em desenvolver componentes reutilizáveis e construir interfaces de usuário dinâmicas, proporcionando uma experiência interativa e responsiva para os usuários.
-* Node.js - Habilidade para criar e gerenciar o backend da aplicação, desenvolvendo rotas, controladores e serviços para processar as requisições dos clientes de forma eficiente.
-* Utilização de Banco de Dados SQLite - Habilidade em usar o SQLite para armazenar e gerenciar dados relevantes para a aplicação, como registros de transações e controle de estoque disponível.
-* Lógica de Programação - Competência em desenvolver algoritmos e estruturas de dados eficientes, exemplificada na implementação da lógica de transações de óleo entre os usuários, garantindo o correto processamento e registro das transações.
-* Análise de Requisitos e Regras de Negócio - Habilidade em compreender e interpretar requisitos do cliente e regras de negócio, demonstrada na análise e implementação das funcionalidades principais do sistema, como o processo de transação de óleo e controle de estoque disponível.
+* React - Competência em desenvolver componentes reutilizáveis e construir interfaces de usuário dinâmicas, proporcionando uma experiência interativa e responsiva para os usuários. (Tenho autonomia)
+* Node.js - Habilidade para criar e gerenciar o backend da aplicação, desenvolvendo rotas, controladores e serviços para processar as requisições dos clientes de forma eficiente. (Tenho autonomia)
+* Utilização de Banco de Dados SQLite - Habilidade em usar o SQLite para armazenar e gerenciar dados relevantes para a aplicação, como registros de transações e controle de estoque disponível. (Tenho autonomia)
+* Lógica de Programação - Competência em desenvolver algoritmos e estruturas de dados eficientes, exemplificada na implementação da lógica de transações de óleo entre os usuários, garantindo o correto processamento e registro das transações. (Tenho autonomia)
+* Análise de Requisitos e Regras de Negócio - Habilidade em compreender e interpretar requisitos do cliente e regras de negócio, demonstrada na análise e implementação das funcionalidades principais do sistema, como o processo de transação de óleo e controle de estoque disponível. (Tenho autonomia)
 
 #### Soft Skills
 * Colaboração Efetiva - Demonstração de habilidade em integrar a lógica de transações de óleo com outros aspectos do sistema, como a interface de usuário e o controle de estoque, em cooperação com outros membros da equipe de desenvolvimento.
