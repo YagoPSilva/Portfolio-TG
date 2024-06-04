@@ -236,7 +236,82 @@ Um aspecto adicional do meu trabalho foi a implementação de um serviço para p
 * Atitude Proativa - Iniciativa em antecipar possíveis problemas na lógica de transações de óleo e tomar medidas preventivas para evitá-los, garantindo a estabilidade e o desempenho do sistema durante todo o desenvolvimento.
 
 ### Em 2024-1
-Mesmo formato
+
+
+No primeiro semestre de 2024, em colaboração com a Oracle, desenvolvemos um sistema de gestão de parceiros em plataforma mobile para centralizar e automatizar atividades relacionadas à gestão de parceiros de negócios. O sistema permite cadastrar, editar, excluir e monitorar dados dos parceiros, acompanhando o desenvolvimento de conhecimento para remuneração e extraindo relatórios de desempenho. Priorizamos uma interface intuitiva e eficiente, incluindo funcionalidades de administração com cadastro e edição de administradores, além de um sistema de login com diferentes níveis de acesso. Todo o desenvolvimento foi documentado no GitHub, garantindo transparência e manutenção futura.
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/loginAdministrador.gif" width="30%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/loginConsultorAliancas.gif" width="30%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/adicionarConsultorAliancas.gif" width="30%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/editarConsultorAliancas.gif" width="30%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/adicionarParceiro.gif" width="30%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/adicionarTrackExpertise.gif" width="30%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/dashboard.gif" width="30%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="readme/2024-1/filter.gif" width="30%" />
+</p>
+
+Para mais informações:
+[GIT](https://github.com/henriqFerreira/API-FATEC-5-SEM)
+
+#### Tecnologias Utilizadas
+* React Native (Front-end)
+* NodeJS (Back-end)
+* Git (Versionamento)
+* Figma (Prototipagem)
+* Github (Documentação e Versionamento)
+* MongoDB (Banco de Dados)
+
+#### Contribuições Pessoais
+Como Product Owner, atuei diretamente junto ao cliente, definindo requisitos essenciais, histórias de usuário detalhadas e critérios de aceitação claros. Esta interação constante garantiu que as necessidades do cliente fossem plenamente compreendidas e traduzidas de forma eficaz nas funcionalidades do sistema. Além disso, fui responsável pela confecção e manutenção dos backlogs do produto e de cada sprint, priorizando tarefas de acordo com o valor de negócio e a urgência, assegurando uma entrega contínua de valor.
+
+No front-end, desenvolvi funcionalidades para a usabilidade do sistema, incluindo a criação de filtros dinâmicos de pesquisa com base em nome e email, que facilitam a localização rápida de informações. Também desenvolvi componentes para a máscara de senhas, aumentando a segurança das entradas de dados e aprimorando a experiência do usuário.
+
+Além disso, fui responsável pela modelagem das collections no MongoDB. Esta tarefa envolveu definir a estrutura de dados de forma eficiente e alinhada aos requisitos do sistema, garantindo que o armazenamento e a recuperação das informações fossem rápidos e precisos, suportando todas as funcionalidades planejadas para o sistema.
+
+#### Hard Skills
+* Product Owner - Experiência em trabalhar diretamente com o cliente para definir requisitos, histórias de usuário e critérios de aceitação, assegurando uma compreensão clara das necessidades do negócio e uma entrega eficaz de funcionalidades. (Tenho autonomia)
+* Backlog Management - Habilidade em criar e manter backlogs de produto e sprint, priorizando tarefas com base no valor de negócio e urgência, garantindo uma entrega contínua e alinhada às expectativas do cliente. (Tenho autonomia)
+* React Native - Competência em desenvolver aplicações móveis nativas utilizando React Native, criando interfaces de usuário dinâmicas e responsivas que melhoram a experiência do usuário. (Tenho autonomia parcial)
+* TypeScript - Habilidade em utilizar TypeScript para desenvolver código seguro e escalável, garantindo maior robustez e facilidade de manutenção no desenvolvimento. (Tenho autonomia)
+* MongoDB - Competência em modelar collections e estruturar dados de forma eficiente, assegurando uma manipulação e recuperação de dados rápida e precisa. (Tenho autonomia)
+
+#### Soft Skills
+* Comunicação Efetiva - Transmiti claramente os requisitos do cliente para a equipe de desenvolvimento, garantindo uma compreensão precisa das necessidades do projeto.
+* Colaboração - Trabalhei de forma colaborativa com a equipe de desenvolvimento na implementação de funcionalidades, compartilhando ideias e soluções para alcançar os objetivos do projeto.
+* Adaptabilidade - Me adaptei rapidamente a mudanças nos requisitos do projeto, ajustando prioridades e tarefas para garantir uma resposta eficaz às novas demandas.
+* Gestão do Tempo - Gerenciei eficientemente o tempo, priorizando tarefas e cumprindo prazos estabelecidos, garantindo uma entrega pontual das funcionalidades.
+* Pensamento Crítico - Analisei criticamente os requisitos do projeto, avaliando as possíveis implicações e tomando decisões fundamentadas para alcançar os objetivos estabelecidos.
+* Resiliência - Lidei positivamente com contratempos durante o desenvolvimento, mantendo o foco nos objetivos do projeto e buscando soluções alternativas para superar desafios.
 
 ### Em 2024-2
 Mesmo formato
