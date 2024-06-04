@@ -306,12 +306,12 @@ Além disso, fui responsável pela modelagem das collections no MongoDB. Esta ta
 * MongoDB - Competência em modelar collections e estruturar dados de forma eficiente, assegurando uma manipulação e recuperação de dados rápida e precisa. (Tenho autonomia)
 
 #### Soft Skills
-* Comunicação Efetiva - Transmiti claramente os requisitos do cliente para a equipe de desenvolvimento, garantindo uma compreensão precisa das necessidades do projeto.
-* Colaboração - Trabalhei de forma colaborativa com a equipe de desenvolvimento na implementação de funcionalidades, compartilhando ideias e soluções para alcançar os objetivos do projeto.
-* Adaptabilidade - Me adaptei rapidamente a mudanças nos requisitos do projeto, ajustando prioridades e tarefas para garantir uma resposta eficaz às novas demandas.
-* Gestão do Tempo - Gerenciei eficientemente o tempo, priorizando tarefas e cumprindo prazos estabelecidos, garantindo uma entrega pontual das funcionalidades.
-* Pensamento Crítico - Analisei criticamente os requisitos do projeto, avaliando as possíveis implicações e tomando decisões fundamentadas para alcançar os objetivos estabelecidos.
-* Resiliência - Lidei positivamente com contratempos durante o desenvolvimento, mantendo o foco nos objetivos do projeto e buscando soluções alternativas para superar desafios.
+* Comunicação Efetiva - Transmissão clara dos requisitos do cliente para a equipe de desenvolvimento, garantindo uma compreensão precisa das necessidades do projeto.
+* Colaboração - Trabalho de forma colaborativa com a equipe de desenvolvimento na implementação de funcionalidades, compartilhando ideias e soluções para alcançar os objetivos do projeto.
+* Adaptabilidade - Adaptação rápida a mudanças nos requisitos do projeto, ajustando prioridades e tarefas para garantir uma resposta eficaz às novas demandas.
+* Gestão do Tempo - Gerenciamento eficaz do tempo, priorizando tarefas e cumprindo prazos estabelecidos, garantindo uma entrega pontual das funcionalidades.
+* Pensamento Crítico - Análise crítica dos requisitos do projeto, avaliando as possíveis implicações e tomando decisões fundamentadas para alcançar os objetivos estabelecidos.
+* Resiliência - Atuação positiva com contratempos durante o desenvolvimento, mantendo o foco nos objetivos do projeto e buscando soluções alternativas para superar desafios.
 
 ### Em 2024-2
 Mesmo formato
