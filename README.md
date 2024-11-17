@@ -5,6 +5,8 @@
 
 Iniciei minha jornada acadêmica com uma formação em Ciências Militares pela Academia Militar das Agulhas Negras. Contudo, minha curiosidade e interesse por tecnologia me levaram a uma transição de carreira para a área de Tecnologia da Informação, iniciando o curso de Análise de Desenvolvimento de Sistemas na FATEC de São José dos Campos.
 
+Profissionalmente na área de TI ingressei como estagiário, atuando em processos de desenvolvimento voltados para o geoprocessamento, no ano de 2022. Em 2023 fui efetivado como Analista Desenvolvedor Junior, e continuo na mesma atuação até a atualidade. 
+
 Busco desafios como desenvolvedor, onde minha versatilidade em linguagens de programação e minha paixão pelo aprendizado constante possam ser aproveitadas. Comprometido em compartilhar meu conhecimento, busco contribuir ativamente para o crescimento da equipe, enquanto almejo atingir minhas metas de evolução profissional e fazer parte de um ambiente que valoriza a inovação e a excelência técnica.
 
 ## Contatos
@@ -25,7 +27,11 @@ Busco desafios como desenvolvedor, onde minha versatilidade em linguagens de pro
 ### Em 2022-1
 
 
-No primeiro semestre de 2022, em colaboração com a FATEC, desenvolvemos um sistema web destinado à automação do processo de catalogação de vagas de emprego em diversas áreas profissionais, com foco especial em Tecnologia da Informação (TI). Além disso, nosso objetivo era configurar métricas que avaliassem diferentes tipos de conhecimento, habilidades e competências necessárias para essas vagas. Durante esse projeto, um grande ponto de aprendizado foi a necessidade de realizar uma raspagem web para buscar vagas de emprego em uma plataforma já existente. Em termos visuais, buscamos criar uma interface que fornecesse informações estratégicas por meio de gráficos, priorizando a facilidade de uso e operação. Todo o processo de desenvolvimento foi documentado de forma abrangente no GitHub, contemplando os procedimentos essenciais para garantir a satisfação do cliente.
+No primeiro semestre de 2022, em colaboração com a FATEC a cargo do professor Antônio Egydio, foi apresentada a seguinte problemática:
+
+O projeto surgiu da necessidade de facilitar a busca por vagas de emprego, especialmente na área de TI, em um cenário com múltiplas plataformas e informações dispersas. A dificuldade em encontrar vagas alinhadas com habilidades específicas inspirou a criação de uma ferramenta que automatizasse a coleta e organização de dados, oferecendo uma experiência mais eficiente e personalizada tanto para candidatos quanto para empresas.
+
+Com isso, desenvolvemos um sistema web destinado à automação do processo de catalogação de vagas de emprego em diversas áreas profissionais, com foco especial em Tecnologia da Informação (TI). Além disso, nosso objetivo era configurar métricas que avaliassem diferentes tipos de conhecimento, habilidades e competências necessárias para essas vagas. Durante esse projeto, um grande ponto de aprendizado foi a necessidade de realizar uma raspagem web para buscar vagas de emprego em uma plataforma já existente. Em termos visuais, buscamos criar uma interface que fornecesse informações estratégicas por meio de gráficos, priorizando a facilidade de uso e operação. Todo o processo de desenvolvimento foi documentado de forma abrangente no GitHub, contemplando os procedimentos essenciais para garantir a satisfação do cliente.
 
 <br>
   <p align="center">
@@ -79,18 +85,17 @@ Minha abordagem, combinada com minhas habilidades técnicas e de liderança, for
 * Gráficos de Burndown - Capacidade de criar e interpretar gráficos de burndown, fornecendo insights valiosos sobre o progresso do projeto ao longo do tempo e auxiliando na tomada de decisões estratégicas. (Tenho autonomia)
 
 #### Soft Skills
-* Colaboração - Demonstrei habilidades de colaboração ao trabalhar em equipe, compartilhando conhecimento, ajudando colegas com dificuldades e contribuindo para um ambiente de trabalho positivo e produtivo.
-* Adaptabilidade - Mostrei capacidade de me adaptar a diferentes situações e exigências do projeto, ajustando-me às mudanças de prioridades, prazos e requisitos conforme necessário para alcançar os objetivos.
-* Pensamento Crítico - Utilizei habilidades de pensamento crítico para analisar problemas complexos, identificar soluções eficazes e tomar decisões embasadas, contribuindo para o sucesso do projeto.
-* Resolução de Problemas: Demonstrei habilidades sólidas em resolução de problemas ao enfrentar desafios técnicos e encontrar soluções eficientes e inovadoras, contribuindo para o avanço e aprimoramento do projeto.
-* Gestão do Tempo - Gerenciei eficientemente meu tempo e minhas tarefas, priorizando atividades, cumprindo prazos e mantendo o projeto dentro do cronograma estabelecido.
-* Proatividade - Tomei iniciativas e busquei constantemente maneiras de melhorar o projeto, identificando oportunidades de otimização, antecipando possíveis problemas e tomando medidas preventivas.
-* Adaptabilidade - Demonstrei flexibilidade e adaptabilidade ao lidar com mudanças de escopo, requisitos ou tecnologias, ajustando-me rapidamente às novas circunstâncias e garantindo a continuidade do progresso do projeto.
+* Proatividade - Tomei iniciativas de codificar grande parte do projeto, mesmo como Scrum Master, devido a falta de entregas da equipe.
+* Adaptabilidade - Demonstrei flexibilidade como Scrum Master, me adequando ao cenário de baixo comprometimento de alguns membros da equipe.
 
 ### Em 2022-2
 
 
-No segundo semestre de 2022, em parceria com a TrackCash, propomos o desenvolvimento de um Software Desktop com o objetivo de otimizar o processo de reconciliação financeira. O projeto visa criar uma plataforma que autorize o acesso automatizado às informações de vendas dos clientes da TrackCash por meio de API's e planilhas, simplificando a conciliação financeira. Nosso foco será garantir uma interface intuitiva e segura, priorizando a proteção dos dados dos clientes. Todo o processo será documentado e implementado seguindo as melhores práticas de gestão de projetos, com o compromisso de atender às necessidades específicas da TrackCash.
+No segundo semestre de 2022, em parceria com a TrackCash uma empresa de gestão financeira, foi apresentada a seguinte problemática:
+
+Otimizar a reconciliação financeira, que era um processo manual e suscetível a erros, envolvendo dados de diferentes fontes como API’s e planilhas. A falta de uma solução integrada dificultava a consolidação eficiente dessas informações e gerava retrabalho. 
+
+Com isso, propomos o desenvolvimento de um Software Desktop com o objetivo de otimizar o processo de reconciliação financeira. O projeto visa criar uma plataforma que autorize o acesso automatizado às informações de vendas dos clientes da TrackCash por meio de API's e planilhas, simplificando a conciliação financeira. Nosso foco será garantir uma interface intuitiva e segura, priorizando a proteção dos dados dos clientes. Todo o processo será documentado e implementado seguindo as melhores práticas de gestão de projetos, com o compromisso de atender às necessidades específicas da TrackCash.
 
 <br>
   <p align="center">
@@ -133,15 +138,17 @@ Outra contribuição significativa foi a criação da interface gráfica do sist
 * Desenvolvimento Independente - Competência em trabalhar de forma autônoma na implementação de funcionalidades específicas do projeto, demonstrando capacidade de resolver problemas e alcançar objetivos sem supervisão direta. (Tenho autonomia)
 
 #### Soft Skills
-* Comunicação Efetiva - Demonstrei habilidade em comunicar de forma clara e eficiente os requisitos do banco de dados aos membros da equipe, garantindo uma compreensão mútua e uma implementação precisa da estrutura de dados necessária para o projeto.
-* Colaboração Proativa - Contribuí ativamente para as reuniões de equipe, oferecendo insights e sugestões para melhorar a lógica de recuperação de e-mail e a interface gráfica, promovendo um ambiente de colaboração e inovação.
-* Resolução de Problemas - Enfrentei desafios na implementação da lógica de recuperação de e-mail, identificando e corrigindo erros no código Java Mail, garantindo que o processo de envio de tokens de recuperação de senha fosse confiável e eficaz.
-* Adaptabilidade - Adaptei-me às mudanças nos requisitos do projeto, ajustando a interface gráfica com base no feedback do cliente e integrando novas funcionalidades, como a administração de privilégios de usuário, de forma oportuna e eficiente.
+* Comunicação Efetiva - Capacidade de comunicar de forma clara e eficiente ao entrar em um novo grupo, o qual já tinha suas características, e mesmo assim agregar com ideias e pensamentos.
+* Resiliência - Capacidade de lidar com desafios e contratempos, como a saída do curso de um dos integrantes do grupo, o que gerou uma nova carga nos demais.
 
 ### Em 2023-1
 
 
-No primeiro semestre de 2023, em colaboração com a Visiona, nosso objetivo foi desenvolver um aplicativo web escalável baseado em microsserviços, adotando os princípios SOLID. O projeto abrangeu todas as etapas, desde documentação até implementação e distribuição, com uso de Git, code review e CI/CD. Optamos por um banco de dados relacional para garantir a transformação eficiente de dados em informações. A proposta central envolveu a criação de um sistema de gerenciamento de usuários completo, incluindo funcionalidades como criação, visualização, edição e remoção, junto a um serviço de autenticação/autorização robusto. Este projeto representou uma oportunidade para aplicar teoria na prática, resultando em uma solução de software de alta qualidade e desempenho.
+No primeiro semestre de 2023, em colaboração com a Visiona uma empresa de sensioramento remoto e telecomunicações, foi apresentada a seguinte problemática:
+
+Implementar sistemas de autenticação e gestão de usuários de forma segura e eficiente em aplicações web. A gestão de senhas e a recuperação de contas, muitas vezes, não são bem implementadas, deixando dados sensíveis vulneráveis. Além disso, a falta de uma navegação clara e a ausência de páginas de erro personalizadas comprometem a experiência do usuário, gerando a necessidade de uma solução mais robusta e intuitiva.
+
+Com isso, nosso objetivo foi desenvolver um aplicativo web escalável baseado em microsserviços, adotando os princípios SOLID. O projeto abrangeu todas as etapas, desde documentação até implementação e distribuição, com uso de Git, code review e CI/CD. Optamos por um banco de dados relacional para garantir a transformação eficiente de dados em informações. A proposta central envolveu a criação de um sistema de gerenciamento de usuários completo, incluindo funcionalidades como criação, visualização, edição e remoção, junto a um serviço de autenticação/autorização robusto. Este projeto representou uma oportunidade para aplicar teoria na prática, resultando em uma solução de software de alta qualidade e desempenho.
 
 <br>
   <p align="center">
@@ -181,16 +188,17 @@ Por fim, contribuí para a criação de uma página de not found personalizada, 
 * Manipulação de Dados em Bancos de Dados Relacionais - Habilidade em realizar operações CRUD (Create, Read, Update, Delete) em bancos de dados relacionais, garantindo a eficiência na manipulação de dados da aplicação. (Tenho autonomia)
 
 #### Soft Skills
-* Comunicação Efetiva - Capacidade de comunicar de forma clara e eficiente com os membros da equipe e stakeholders, explicando detalhadamente a implementação da página de login e dos componentes reutilizáveis com React, garantindo uma compreensão mútua e alinhada dos requisitos e funcionalidades.
-* Trabalho em Equipe Colaborativo - Habilidade em colaborar de forma eficaz com colegas de equipe na resolução de problemas específicos, como a integração do sistema de recuperação de senha por e-mail, discutindo soluções e compartilhando conhecimento para implementar uma funcionalidade robusta e eficiente.
-* Foco em Resultados - Orientação para resultados, mantendo-se focado em alcançar objetivos específicos do projeto, como a criação do sistema de gerenciamento de usuários com funcionalidades de criação, visualização, edição e remoção, garantindo a entrega de uma solução completa e funcional.
-* Resiliência - Capacidade de lidar com desafios e contratempos, como a resolução de problemas durante a implementação da lógica de recuperação de senha por e-mail, mantendo-se motivado e perseverante para encontrar soluções eficazes e garantir o progresso contínuo do projeto.
-* Pensamento Crítico - Competência em analisar e avaliar diferentes abordagens para resolver problemas técnicos, como a seleção da melhor estratégia para a integração de serviços de e-mail no sistema de recuperação de senha, considerando critérios técnicos e requisitos específicos do projeto para tomar decisões informadas.
+* Resolução de Problemas - Enfrentamos confrontos internos no grupo, infelizmente devido a falta de entregaas e qualidade acabamos optando pela demissão de um membro, o que acabou por gerar a saída de alguns integrantes para os próximos projetos.
+* Adaptabilidade - Adaptei-me a novas tecnologias nunca utilizadas de front-end, já que em ambiente de trabalho sempre tive pouco contato com essa parte do desenvolvimento.
 
 ### Em 2023-2
 
 
-No segundo semestre de 2023, em parceria com a Greenneat, desenvolvemos uma plataforma inovadora com o objetivo de gerenciar créditos utilizados como contrapartida na coleta de materiais pelos parceiros nos estabelecimentos cadastrados. Esta solução permitiu aos parceiros comparar e revender óleo para a Greenneat, utilizando os créditos obtidos para adquirir saneantes na loja virtual da empresa. Além disso, a plataforma ofereceu acesso a um histórico detalhado de transações para parceiros e estabelecimentos, enquanto o administrador teve controle total sobre os registros e acesso a um dashboard com informações estratégicas sobre a economia circular.
+No segundo semestre de 2023, em parceria com a Greenneat uma empresa voltada para confecção de produtos sustentáveis, foi apresentada a seguinte problemática:
+
+Otimizar o descarte e reaproveitamento de óleo em estabelecimentos comerciais, que muitas vezes enfrentam dificuldades em gerenciar esse resíduo de forma eficiente. A falta de um sistema de controle dificultava a implementação de uma economia circular, onde o óleo poderia ser transformado em créditos para a compra de produtos sustentáveis. Assim, a Greenneat vislumbrou a oportunidade de criar uma plataforma que conectasse estabelecimentos e parceiros, incentivando o reaproveitamento do óleo e promovendo práticas mais sustentáveis.
+
+Com isso, desenvolvemos uma plataforma inovadora com o objetivo de gerenciar créditos utilizados como contrapartida na coleta de materiais pelos parceiros nos estabelecimentos cadastrados. Esta solução permitiu aos parceiros comparar e revender óleo para a Greenneat, utilizando os créditos obtidos para adquirir saneantes na loja virtual da empresa. Além disso, a plataforma ofereceu acesso a um histórico detalhado de transações para parceiros e estabelecimentos, enquanto o administrador teve controle total sobre os registros e acesso a um dashboard com informações estratégicas sobre a economia circular.
 
 <br>
   <p align="center">
@@ -228,17 +236,17 @@ Um aspecto adicional do meu trabalho foi a implementação de um serviço para p
 * Análise de Requisitos e Regras de Negócio - Habilidade em compreender e interpretar requisitos do cliente e regras de negócio, demonstrada na análise e implementação das funcionalidades principais do sistema, como o processo de transação de óleo e controle de estoque disponível. (Tenho autonomia)
 
 #### Soft Skills
-* Colaboração Efetiva - Demonstração de habilidade em integrar a lógica de transações de óleo com outros aspectos do sistema, como a interface de usuário e o controle de estoque, em cooperação com outros membros da equipe de desenvolvimento.
-* Comunicação Clara e Eficiente - Habilidade em explicar detalhadamente a implementação da lógica de transações de óleo para outros membros da equipe, garantindo uma compreensão clara do funcionamento do sistema e facilitando a colaboração no projeto.
-* Resolução de Problemas em Equipe - Capacidade de identificar e resolver problemas relacionados à lógica de transações de óleo em conjunto com outros desenvolvedores, implementando soluções criativas e eficazes para garantir o funcionamento adequado do sistema.
-* Adaptabilidade - Flexibilidade para ajustar a lógica de transações de óleo conforme necessário, em resposta a mudanças nos requisitos do projeto ou nos feedbacks dos usuários, garantindo que o sistema permaneça eficiente e atualizado.
-* Foco em Resultados - Orientação para alcançar os objetivos específicos relacionados à lógica de transações de óleo, priorizando tarefas e recursos para garantir que o componente essencial do sistema seja entregue dentro dos prazos estabelecidos.
+* Adaptabilidade - Flexibilidade para ajustar junto ao grupo o que seria entregado, devido a baixa colaboração da embpresa parceira na execução do projeto, a qual se mostrou totalmente ausente do processo de esclarecimento de dúvidas no desenvolvimento.
 * Atitude Proativa - Iniciativa em antecipar possíveis problemas na lógica de transações de óleo e tomar medidas preventivas para evitá-los, garantindo a estabilidade e o desempenho do sistema durante todo o desenvolvimento.
 
 ### Em 2024-1
 
 
-No primeiro semestre de 2024, em colaboração com a Oracle, desenvolvemos um sistema de gestão de parceiros em plataforma mobile para centralizar e automatizar atividades relacionadas à gestão de parceiros de negócios. O sistema permite cadastrar, editar, excluir e monitorar dados dos parceiros, acompanhando o desenvolvimento de conhecimento para remuneração e extraindo relatórios de desempenho. Priorizamos uma interface intuitiva e eficiente, incluindo funcionalidades de administração com cadastro e edição de administradores, além de um sistema de login com diferentes níveis de acesso. Todo o desenvolvimento foi documentado no GitHub, garantindo transparência e manutenção futura.
+No primeiro semestre de 2024, em colaboração com a Oracle empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware, softwares, bancos de dados e serviços de nuvem, foi apresentada a seguinte problemática:
+
+Melhorar a gestão de seus parceiros de negócios, que até então era realizada de forma manual e descentralizada. A dificuldade em acompanhar o desenvolvimento de conhecimento, atualizar informações e gerar relatórios eficazes levou à criação de um sistema mobile integrado, com foco em automação, centralização de dados e facilitação do processo de tomada de decisão.
+
+Com isso, desenvolvemos um sistema de gestão de parceiros em plataforma mobile para centralizar e automatizar atividades relacionadas à gestão de parceiros de negócios. O sistema permite cadastrar, editar, excluir e monitorar dados dos parceiros, acompanhando o desenvolvimento de conhecimento para remuneração e extraindo relatórios de desempenho. Priorizamos uma interface intuitiva e eficiente, incluindo funcionalidades de administração com cadastro e edição de administradores, além de um sistema de login com diferentes níveis de acesso. Todo o desenvolvimento foi documentado no GitHub, garantindo transparência e manutenção futura.
 
 <br>
   <p align="center">
@@ -307,11 +315,45 @@ Além disso, fui responsável pela modelagem das collections no MongoDB. Esta ta
 
 #### Soft Skills
 * Comunicação Efetiva - Transmissão clara dos requisitos do cliente para a equipe de desenvolvimento, garantindo uma compreensão precisa das necessidades do projeto.
-* Colaboração - Trabalho de forma colaborativa com a equipe de desenvolvimento na implementação de funcionalidades, compartilhando ideias e soluções para alcançar os objetivos do projeto.
-* Adaptabilidade - Adaptação rápida a mudanças nos requisitos do projeto, ajustando prioridades e tarefas para garantir uma resposta eficaz às novas demandas.
-* Gestão do Tempo - Gerenciamento eficaz do tempo, priorizando tarefas e cumprindo prazos estabelecidos, garantindo uma entrega pontual das funcionalidades.
+* Colaboração - Trabalhei de forma colaborativa com a equipe de desenvolvimento na implementação de funcionalidades, compartilhando ideias e soluções para alcançar os objetivos do projeto.
 * Pensamento Crítico - Análise crítica dos requisitos do projeto, avaliando as possíveis implicações e tomando decisões fundamentadas para alcançar os objetivos estabelecidos.
-* Resiliência - Atuação positiva com contratempos durante o desenvolvimento, mantendo o foco nos objetivos do projeto e buscando soluções alternativas para superar desafios.
 
 ### Em 2024-2
-Mesmo formato
+
+
+No segundo semestre de 2024, em parceria com a empresa Dom Rock a qual é voltada ao ramo de tecnologia de dados, foi apresentada a seguinte problemática:
+
+A dificuldade que empresas de e-commerce enfrentam para analisar grandes volumes de comentários de clientes e transformar esse feedback em ações de marketing eficazes. Com a crescente quantidade de avaliações online, identificar pontos de melhoria e destaques se tornou uma tarefa complexa devido à natureza desestruturada desses dados. Para resolver esse desafio, desenvolvemos um chatbot de IA generativa capaz de extrair insights relevantes e fornecer respostas em linguagem natural, facilitando a análise estratégica e a tomada de decisões.
+
+Com isso, desenvolvemos um chatbot de IA generativa voltado para melhorar o marketing em e-commerce, extraindo insights de comentários de clientes sobre suas experiências de compra. Utilizando uma base pública com mais de 100 mil registros da B2W, criamos um pipeline que processa comentários de produtos e os armazena em um banco de vetores, integrando a técnica RAG (Retrieval Augmented Generation) com modelos LLM como GPT-2 e Llama. Para isso, empregamos o framework Langchain em Python e ChromaDB, além de uma interface intuitiva desenvolvida em Vue.js para que o usuário final interaja em linguagem natural. Todo o projeto foi documentado e publicado no GitHub para consulta futura e aprimoramento.
+
+
+Para mais informações:
+[GIT](https://github.com/CamilaRedondo/API-FATEC-6-SEM)
+
+#### Tecnologias Utilizadas
+* Vue.js (Front-end)
+* Python (Back-end)
+* Git (Versionamento)
+* Llama3 (Base do LLM)
+* Github (Documentação e Versionamento)
+* ChromaDB (Banco de Dados)
+
+#### Contribuições Pessoais
+Minha primeira contribuição no projeto foi como desenvolvedor, focando na escolha das estratégias de embeddings e divisão de textos (chunks). Para isso, realizei diversos testes com diferentes modelos de LLM, optando por um modelo gratuito da Groq baseado em LLaMA-3. Meu objetivo foi garantir que o chatbot pudesse extrair de forma eficiente e precisa as informações relevantes dos comentários de clientes. Testei diversas configurações para otimizar a performance e a precisão das respostas, ajustando o tamanho dos chunks e a forma como os embeddings eram gerados para melhorar a qualidade das buscas.
+
+Em seguida, enfrentei e resolvi desafios significativos relacionados ao consumo de memória, que inicialmente comprometiam o processamento dos grandes volumes de dados. Ajustei o pipeline de forma a otimizar o uso da memória e garantir que todos os registros pudessem ser processados para o embedding. Para lidar com a necessidade de armazenamento eficiente dos vetores resultantes, implementei o processo de persistência no ChromaDB, permitindo buscas rápidas e eficientes durante o uso do chatbot. Essa otimização foi crucial para garantir que o sistema pudesse lidar com grandes bases de dados sem interrupções.
+
+Por fim, realizei uma refatoração completa do código Python envolvido no projeto, focando na organização e modularidade. Reestruturei o código para torná-lo mais legível e de fácil manutenção, além de eliminar redundâncias e melhorar a eficiência geral. Com essa refatoração, conseguimos um desempenho superior na integração dos componentes, garantindo que o pipeline de processamento de dados, a geração de embeddings e a busca no banco vetorial fossem realizados de forma fluida e otimizada. Essa abordagem também facilitou futuras expansões e ajustes no sistema, tornando-o mais robusto e escalável.
+
+#### Hard Skills
+* Python - Capacidade de desenvolver e refatorar códigos de forma eficiente, otimizando a modularidade e desempenho em projetos complexos de processamento de linguagem natural, utilizando bibliotecas como Langchain para integração com LLMs. (Tenho autonomia)
+* Modelos de Linguagem (LLM) - Experiência na escolha, ajuste e implementação de modelos como o Groq baseado em LLaMA-3, incluindo a definição de estratégias de embeddings e otimização para processamento de consultas em linguagem natural. (Tenho autonomia)
+* Engenharia de Prompt - Habilidade em configurar e ajustar prompts para melhorar a precisão das respostas geradas por modelos de IA, garantindo que o chatbot forneça informações relevantes e contextualizadas. (Tenho autonomia)
+* ChromaDB - Proficiência em utilizar bancos de dados vetoriais, implementando técnicas para persistência de embeddings, garantindo buscas eficientes e de baixa latência. (Tenho autonomia)
+* Vue.js - Experiência em desenvolver interfaces amigáveis para usuários finais, utilizando frameworks modernos para garantir uma experiência interativa e intuitiva na interação com o chatbot. (Tenho autonomia parcial)
+
+#### Soft Skills
+* Comunicação Efetiva - Transmissão clara dos resultados dos resultados dos testes de algumas estratégias de Chunk e Embedding para outros membros do grupo.
+* Adaptabilidade - Trabalhei de forma a sempre tentar entender ao máximo o conhecimento de PLN (Processamento de Linguagem Natural) para execução do projeto, mesmo sendo o primeiro contato com a área de IA.
+* Pensamento Crítico - Análise crítica dos resultados de testes com diferentes modelos de LLM e de Embedding, com a finalidade de escolher um que se encaixasse no projeto.
