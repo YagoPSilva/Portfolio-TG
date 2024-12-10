@@ -38,6 +38,9 @@ Com isso, desenvolvemos um sistema web destinado à automação do processo de c
     <img src="readme/2022-1/gif-home-vagas.gif" width="60%" />
 </p>
 
+<details>
+  <summary>Ver mais</summary>
+  
 <br>
   <p align="center">
     <img src="readme/2022-1/cadastro-login-interfaceadm.gif" width="60%" />
@@ -47,6 +50,8 @@ Com isso, desenvolvemos um sistema web destinado à automação do processo de c
   <p align="center">
     <img src="readme/2022-1/cursos-metricas-localização.gif" width="60%" />
 </p>
+
+</details>
 
 Para mais informações:
 [GIT](https://github.com/Fiv5TechCo/API-1ADS-2022-1)
@@ -102,6 +107,9 @@ Com isso, propomos o desenvolvimento de um Software Desktop com o objetivo de ot
     <img src="/readme/2022-2/Cadastro_canais_adm.gif" width="60%" />
 </p>
 
+<details>
+  <summary>Ver mais</summary>
+
 <br>
   <p align="center">
     <img src="/readme/2022-2/Config_canais.gif" width="60%" />
@@ -111,6 +119,8 @@ Com isso, propomos o desenvolvimento de um Software Desktop com o objetivo de ot
   <p align="center">
     <img src="/readme/2022-2/Config_canais_token.gif" width="60%" />
 </p>
+
+</details>
 
 Para mais informações:
 [GIT](https://github.com/micael-leal/API-FATEC-2-SEM)
@@ -205,10 +215,15 @@ Com isso, desenvolvemos uma plataforma inovadora com o objetivo de gerenciar cr�
     <img src="readme/2023-2/cadastro.gif" width="60%" />
 </p>
 
+<details>
+  <summary>Ver mais</summary>
+
 <br>
   <p align="center">
     <img src="readme/2023-2/login_recuperacaoSenha.gif" width="60%" />
 </p>
+
+</details>
 
 Para mais informações:
 [GIT](https://github.com/JoaoHenrique7/API-FATEC-4-SEM)
@@ -253,6 +268,9 @@ Com isso, desenvolvemos um sistema de gestão de parceiros em plataforma mobile 
     <img src="readme/2024-1/loginAdministrador.gif" width="30%" />
 </p>
 
+<details>
+  <summary>Ver mais</summary>
+
 <br>
   <p align="center">
     <img src="readme/2024-1/loginConsultorAliancas.gif" width="30%" />
@@ -287,6 +305,8 @@ Com isso, desenvolvemos um sistema de gestão de parceiros em plataforma mobile 
   <p align="center">
     <img src="readme/2024-1/filter.gif" width="30%" />
 </p>
+
+</details>
 
 Para mais informações:
 [GIT](https://github.com/henriqFerreira/API-FATEC-5-SEM)
