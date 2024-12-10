@@ -347,6 +347,35 @@ A dificuldade que empresas de e-commerce enfrentam para analisar grandes volumes
 
 Com isso, desenvolvemos um chatbot de IA generativa voltado para melhorar o marketing em e-commerce, extraindo insights de comentários de clientes sobre suas experiências de compra. Utilizando uma base pública com mais de 100 mil registros da B2W, criamos um pipeline que processa comentários de produtos e os armazena em um banco de vetores, integrando a técnica RAG (Retrieval Augmented Generation) com modelos LLM como GPT-2 e Llama. Para isso, empregamos o framework Langchain em Python e ChromaDB, além de uma interface intuitiva desenvolvida em Vue.js para que o usuário final interaja em linguagem natural. Todo o projeto foi documentado e publicado no GitHub para consulta futura e aprimoramento.
 
+<br>
+  <p align="center">
+    <img src="/readme/2024-2/usabilidade_sprint_3_rf5.gif" width="60%" />
+</p>
+
+<details>
+  <summary>Ver mais</summary>
+
+<br>
+  <p align="center">
+    <img src="/readme/2024-2/usabilidade_sprint_1.gif" width="60%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="/readme/2024-2/usabilidade_sprint_2_rf1.gif" width="60%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="/readme/2024-2/usabilidade_sprint_2_rf3.gif" width="60%" />
+</p>
+
+<br>
+  <p align="center">
+    <img src="/readme/2024-2/usabilidade_sprint_3_rf4.gif" width="60%" />
+</p>
+
+</details>
 
 Para mais informações:
 [GIT](https://github.com/CamilaRedondo/API-FATEC-6-SEM)
@@ -374,6 +403,6 @@ Por fim, realizei uma refatoração completa do código Python envolvido no proj
 * Vue.js - Experiência em desenvolver interfaces amigáveis para usuários finais, utilizando frameworks modernos para garantir uma experiência interativa e intuitiva na interação com o chatbot. (Tenho autonomia parcial)
 
 #### Soft Skills
-* Comunicação Efetiva - Transmissão clara dos resultados dos resultados dos testes de algumas estratégias de Chunk e Embedding para outros membros do grupo.
-* Adaptabilidade - Trabalhei de forma a sempre tentar entender ao máximo o conhecimento de PLN (Processamento de Linguagem Natural) para execução do projeto, mesmo sendo o primeiro contato com a área de IA.
-* Pensamento Crítico - Análise crítica dos resultados de testes com diferentes modelos de LLM e de Embedding, com a finalidade de escolher um que se encaixasse no projeto.
+* Comunicação Efetiva - Transmissão clara através de uma apresentação para o restante do grupo, explicando detalhadamente e mostrando as estratégias de Chunk e Embedding a serem utilizadas no projeto.
+* Adaptabilidade - Trabalhei de forma a sempre tentar entender ao máximo o conhecimento de PLN (Processamento de Linguagem Natural) para execução do projeto através de documentações e bases teóricas, mesmo sendo o primeiro contato com a área de IA.
+* Pensamento Crítico - Análise crítica dos resultados de testes com diferentes modelos de LLM e de Embedding, com a finalidade de escolher um que se encaixasse no projeto. No caso, o modelo LLM foi escolhido, sendo utilizado o llama-3, dentre os modelos gratuítos foi o que entregou melhor consistência semântica. 
